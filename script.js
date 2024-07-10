@@ -17,10 +17,6 @@ for(var i=1;i<=5;i++){
     }
 }
 
-document.write("<br>");
-document.write("<br>");
-document.write("<br>");
-document.write("<br>");
 
 document.write("Total number of Win =" + numberOfWon+"<br>");
 document.write("Total number of Lost =" + numberOfLost+"<br>");
